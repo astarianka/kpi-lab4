@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{489BEBBC-5F70-483E-B89B-9769789506E9}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.lab4__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab4_1/src/MultipleBinaryFlag.cs">
+    <Files>
+      <File FileName="lab4_1/FlagTests.cs" Line="8" Column="27" />
+      <File FileName="lab4_1/other_tests/FlagsToDB.cs" Line="7" Column="24" />
+      <File FileName="lab4_1/other_tests/HashingToFile.cs" Line="8" Column="20" />
+      <File FileName="lab4_1/other_tests/Hashing.cs" Line="5" Column="24" />
+      <File FileName="lab4_1/src/MultipleBinaryFlag.cs" Line="263" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab4_1" expanded="True">
+            <Node name="lab4_1" expanded="True">
+              <Node name="other_tests" expanded="True" />
+              <Node name="src" expanded="True">
+                <Node name="MultipleBinaryFlag.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="lab4_1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

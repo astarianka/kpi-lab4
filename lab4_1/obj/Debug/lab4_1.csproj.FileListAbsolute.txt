@@ -1,0 +1,16 @@
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/obj/Debug/lab4_1.csprojAssemblyReference.cache
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/obj/Debug/lab4_1.csproj.CoreCompileInputs.cache
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/bin/Debug/lab4_1.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/bin/Debug/lab4_1.pdb
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/bin/Debug/IIG.DatabaseConnectionUtils.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/bin/Debug/IIG.PasswordHashingUtils.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/bin/Debug/nunit.framework.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/bin/Debug/nunit.framework.xml
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/bin/Debug/IIG.PasswordHashingUtils.pdb
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/bin/Debug/IIG.PasswordHashingUtils.xml
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/obj/Debug/lab4_1.csproj.CopyComplete
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/obj/Debug/lab4_1.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/obj/Debug/lab4_1.pdb
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/bin/Debug/IIG.FileWorker.dll
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/bin/Debug/IIG.FileWorker.pdb
+/home/anna/Documents/4TH_COURSE/TESTING/SOURCES/lab4/lab4_1/lab4_1/lab4_1/bin/Debug/IIG.FileWorker.xml
